@@ -1,10 +1,10 @@
 {
     "orders_grid": {
-        "width": "200",
-        "height": "200",
-        "pos_x": 0,
-        "pos_y": 0,
-        "alpha": 49,
-        "segments_len": 10
+        "width": 1000,
+        "height": 183,
+        "pos_x": 294,
+        "pos_y": 575,
+        "alpha": 48,
+        "segments_len": 20
     }
 }
